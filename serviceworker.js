@@ -4,14 +4,14 @@ const urlsToCache = [
 
 
 
-    "index.html",
+    "/",
     "images/apple-touch-icon.png",
     "images/favicon.ico",
     "images/icon-192-maskable.png",
     "images/icon-192.png",
     "images/icon-512-maskable.png",
     "images/icon-512.png",
-    "README.txt"
+    
 
   ];
    
